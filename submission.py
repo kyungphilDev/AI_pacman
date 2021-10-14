@@ -343,9 +343,9 @@ def betterEvaluationFunction(currentGameState):
                         if nx == cap_x and ny == cap_y:
                             return cur_Num+1
                     if currentGameState.hasFood(nx, ny):
-                        return cur_Num+10
+                        return cur_Num+7
                     q.append([newGameState, cur_Num+1])
-        return 50
+        return 40
     score = scoreEvaluationFunction(currentGameState)
     return score-bfs(currentGameState)
 # END_YOUR_ANSWER

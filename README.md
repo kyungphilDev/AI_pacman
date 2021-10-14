@@ -3,7 +3,7 @@
       <img src="https://user-images.githubusercontent.com/80669616/137313558-d2edb776-6b35-4c53-a9ff-14f405cb2db4.png" width="700"><br>Pac-Man GUI simulator
 </p>
 
-By using three kind of algorithm **Minimax**, **Alpha-beta pruning**, **Expectimax**, **customized evaluation function**  
+By using three kinds of algorithm `Minimax`, `Alpha-beta pruning`, `Expectimax`, `customized evaluation function`  
 You can simulate Multi-agent Pac-Man.(python)
 
 ## 본 프로젝트의 주요 쟁점

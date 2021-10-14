@@ -2,11 +2,8 @@
 <p align="center">
       <img src="https://user-images.githubusercontent.com/80669616/137313558-d2edb776-6b35-4c53-a9ff-14f405cb2db4.png" width="700"><br>Pac-Man GUI simulator
 </p>
-By using three kind of algorithm `Minimax`, `Alpha-beta pruning`, `Expectimax`, `customized evaluation function`  
+By using three kind of algorithm **Minimax**, **Alpha-beta pruning**, **Expectimax**, **customized evaluation function**  
 it can simulate Multi-agent Pac-Man.(python)
-
-
-
 
 ## 본 프로젝트의 주요 쟁점
 
@@ -17,7 +14,7 @@ CSP(Constraint Satisfaction Problem)을 해결하는 것을 목표로 합니다.
 - Alpha-beta pruning
 - Expectimax
 
-세부 구현은 `submission.py`파일을 참고해주세요.
+세부 구현은 **submission.py** 파일을 참고해주세요.
 
 ## 시뮬레이션 방법
 

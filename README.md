@@ -27,7 +27,7 @@ CSP(Constraint Satisfaction Problem)을 해결하는 것을 목표로 합니다.
 
 ## Expectimax + customized-Evaluation function의 20번 시뮬레이션 결과
 <p align="center">
-      <img src="https://user-images.githubusercontent.com/80669616/137313662-444605bf-f35f-4221-a473-82403f319d52.png" width="700"><br>Pac-Man GUI simulator
+      <img src="https://user-images.githubusercontent.com/80669616/137313662-444605bf-f35f-4221-a473-82403f319d52.png" width="1000"><br>Pac-Man GUI simulator
 </p>
 
 

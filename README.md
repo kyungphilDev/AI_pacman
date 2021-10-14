@@ -20,8 +20,10 @@ CSP(Constraint Satisfaction Problem)을 해결하는 것을 목표로 합니다.
 ## 시뮬레이션 방법
 
 터미널 창에 다음의 예시를 참고하여 명령을 입력하면 됩니다.
-> python pacman -p Expectimax (Expectimax 알고리즘으로 팩맨이 시뮬레이션 됩니다.)
-> pacman.py -l smallClassic -p ExpectimaxAgent -a evalFn=better -q (Expectimax+customized evaluation function)  
+> python pacman -p Expectimax  
+(Expectimax 알고리즘으로 팩맨이 시뮬레이션 됩니다.)  
+> pacman.py -l smallClassic -p ExpectimaxAgent -a evalFn=better -q  
+(Expectimax+customized evaluation function)    
 
 ## Expectimax + customized-Evaluation function의 20번 시뮬레이션 결과
 <p align="center">

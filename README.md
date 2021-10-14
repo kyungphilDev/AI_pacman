@@ -2,8 +2,9 @@
 <p align="center">
       <img src="https://user-images.githubusercontent.com/80669616/137313558-d2edb776-6b35-4c53-a9ff-14f405cb2db4.png" width="700"><br>Pac-Man GUI simulator
 </p>
+
 By using three kind of algorithm 
-- Minimax-
+- Minimax
 - Alpha-beta pruning
 - Expectimax
 - customized evaluation function**  

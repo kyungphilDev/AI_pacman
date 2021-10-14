@@ -4,10 +4,10 @@
 </p>
 
 By using three kind of algorithm 
-- Minimax
+**Minimax**
 - Alpha-beta pruning
 - Expectimax
-- customized evaluation function**  
+- customized evaluation function
 it can simulate Multi-agent Pac-Man.(python)
 
 ## 본 프로젝트의 주요 쟁점
